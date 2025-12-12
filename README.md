@@ -1,7 +1,7 @@
 # iZotope RX – Audio Repair & Enhancement Suite
 
 <div align="center">  
-  <img src="https://www.izotope.com/storage-cms/images/2/1/1/8/198112-1-eng-GB/b12ce0fe65ed-RX-icon-dark-2x.png" width="250" alt="iZotope RX Logo"/>  
+  <img src="https://img.informer.com/icons_mac/png/128/605/605930.png" width="250" alt="iZotope RX Logo"/>  
 </div>  
 
 <br>  
